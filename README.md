@@ -2,7 +2,9 @@
 
 These are my personal notes for my cissp study.  Hopefully they can help anyone who reads this
 
-I'm also using this to test out github and learn markdown.  Lets see how that works :-)
+I'm also using this to test out github, learn markdown, and VI controls.  Lets see how that works :-)
+
+I am basically retyping my notes and keeping them all in Markdown docs.  One doc for each domain.  If the spelling looks horrible, sorry 
 
 Sites and Videos I like:
 
