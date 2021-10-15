@@ -17,3 +17,11 @@ Sites and Videos I like:
 [Destination Certification](https://youtube.com/playlist?list=PLZKdGEfEyJhKWyryIvx_jm1jn6ZMTi7gW)
 
 [CCCure Training](https://www.cccure.education/)
+
+[Sunflower Document](https://www.sunflower-cissp.com/)
+
+# Books I Like
+
+[11th Hour CISSP](https://www.amazon.com/Eleventh-Hour-CISSP-Study-Syngress/dp/1597495662)
+
+[Sybex Official Study Guide](https://www.amazon.com/Certified-Information-Security-Professional-Official/dp/1119790026/ref=sr_1_1?dchild=1&keywords=cissp+official+study+guide+9th&qid=1634258874&s=books&sr=1-1)

@@ -81,3 +81,49 @@ Most important document is to have one for information handling (per something I
 - Procedure:  Step by step on how to do something
 - Baseline:  Minimum security required for a system or process
 - Guidelines:  Recommendations or suggestions.  This is the only one that is optional.  
+
+Risk = Threats * Vulnerability or Risk = probability * impact
+
+Qualifying Risk
+1. Gather Asset Information, including logical assets, digital assets, and reputation
+2. Identify the Vulnerabilities
+3. Perform a Threat Assessment
+4. Probability Quantification or how often does the threat happen
+5. Probability Qualification.  This is not a solid number
+6. Financial Impact Evaluation
+7. Determine the proper counter measures or accept the risk
+
+# Risk Management Principles
+
+**Risk Cannot Be Eliminated**
+
+- Mitigation of the risk
+- Acceptance of the risk
+- Transfer the risk - think insurance
+- Avoid the risk
+
+Asset Valuation
+- Asset Management System
+- Delphi Method - expert opinion and survey
+- Insurance valuation
+- Accounting System
+
+Tangible and Untangle Assets go into Asset Valuation (AV)
+Exposure Factor (EF) - a percentage of the amount of loss if a specific threat or vulnerability is exploited.
+
+Risk = Threat * Vulnerability
+
+Asset Value (AV)
+
+Exposure Factor (EF)
+
+Single-loss Expectancy (SLE)
+
+Annual Rate of occurance (ARO)
+
+Annualized Loss Expectancy (ALE)
+
+Total Cost of Ownership (TCO)
+
+See Page 25 and 26 of 11th hour cissp on how to run the formula and a good example.  The Questions at the end of chapter 1 are great
+
