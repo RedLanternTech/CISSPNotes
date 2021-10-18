@@ -20,6 +20,8 @@ Sites and Videos I like:
 
 [Sunflower Document](https://www.sunflower-cissp.com/)
 
+[NIST SP 800-34](https://csrc.nist.gov/publications/detail/sp/800-34/rev-1/final)
+
 # Books I Like
 
 [11th Hour CISSP](https://www.amazon.com/Eleventh-Hour-CISSP-Study-Syngress/dp/1597495662)

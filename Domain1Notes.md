@@ -119,11 +119,57 @@ Exposure Factor (EF)
 
 Single-loss Expectancy (SLE)
 
-Annual Rate of occurance (ARO)
+Annual Rate of occurrence (ARO)
 
 Annualized Loss Expectancy (ALE)
 
 Total Cost of Ownership (TCO)
 
 See Page 25 and 26 of 11th hour cissp on how to run the formula and a good example.  The Questions at the end of chapter 1 are great
+
+A vulnerability can be real or theoretical.
+
+- Perform Risk Analysis
+- List Risk identified
+- Determine Probability 
+- Prioritize Risk
+
+Quantitative:  mathematical estimate, hard numbers.  
+Qualitative:  best guess, statements and valuations.  about impact, vulnerability, and threats.
+
+Business Continuity Plan- Non technical.  Needs to be reviewed once a year.
+Disaster Recovery Plan - Technical.  Not every business needs a disaster recovery plan.
+
+
+NIST SP 800-34.  
+1. Develope the Policy Statement
+2. Conduct a business impact analysis (BIA)
+3. Identify Preventative Controls
+4. Develope REcovery Strategies
+5. Develope an IT Contingency Plan
+6. Plan for Testing, Training and Exercise
+7. PLan for Maintenance.  
+
+**People are the Most Important Asset**
+- Ensure human health
+- Maintain delivery to customers
+- Provide a safe workplace.
+
+Business Impact Analysis
+- Most important doc in the Business Continuity Plan
+- Lists the most important functions of the business
+- Includes Estimates of Tolerable Downtime
+
+Maximum Tolerable Downtime (MTD):  Acceptable downtime.  This comes from Management (not the tech team)
+Recovery Time Objectives:  How long it takes to get back up.
+Recovery Point Objective:  Amount of time we need to take bak ups
+Mean Time to Failure:  Time between failure in any system (MTTF)
+Mean Time to Repair:  Average time to repair (MTTR)
+MTTF needs to be increased while MTTR needs to be decreased
+
+# Business Continuity Plan Team's Responsibilities
+- People Come First.  Needs to be in the BCP
+- Review the BCP
+- Plan needs to be tested
+- **Everything needs a plan**
 
