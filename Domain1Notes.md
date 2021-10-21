@@ -167,9 +167,105 @@ Mean Time to Failure:  Time between failure in any system (MTTF)
 Mean Time to Repair:  Average time to repair (MTTR)
 MTTF needs to be increased while MTTR needs to be decreased
 
-# Business Continuity Plan Team's Responsibilities
+## Business Continuity Plan Team's Responsibilities
 - People Come First.  Needs to be in the BCP
 - Review the BCP
 - Plan needs to be tested
 - **Everything needs a plan**
 
+## Disaster Recovery Plan
+
+Priority Levels
+- Short Term - MIrroring site
+- Mid Term - Rebuilding
+- Long Term - Rebuilding
+
+Determine type of backups
+- Differential
+- Incremental
+
+Alternate Sites
+- Hot Site(Mirrored):  Site that is fully equipped and synced.  
+- Warm Site:  Does not have the data but has the equipment
+- Cold Site:  Can be up in a week, needs hardware and data.
+- Portable:  Think of a van with equipment
+- Mutual Aid Agreement:  arrangement with another business to take over functions.  Also Called a reciprocal agreement
+
+**When Restoring a Site, Critical Applications Should Come Online First**
+
+Recovery Team:  Implements the procedures and controls when it comes to a disaster recovery process
+ - Goal is to meet the Recovery Time Objective (RTO) without exceeding the Maximum Tolerable Downtime (MTD)
+
+Salvage Team:  Team Responsible for restoring the original site
+
+Employees can be a bigger threat than outside individuals.
+- potential targets for social engineering
+- need controls
+- need to be aware of hiring and firing procedures
+
+Data Owners determine need to know information for each job role
+- not right to give your employees all access to everything
+- need a list from the data owner of who can access what
+
+Recovery Controls:  Backups and Redundancy
+Compensating Controls:  For when an existing system can't meet requirements
+Detective Controls:  to be able to find out when something happens
+
+Job Sensitive Profile:  What access is needed.  Administrators use this to assign permissions.
+
+Employee Agreement.  Employees Should Sign:
+- a NDA form
+- Code of Conduct
+- Ethics Agreement
+- Conflict of Interests Agreement
+
+Employee Policies
+- Separation of Duties
+- Need to Know 
+- Least Privilege
+- Job Rotation
+- Mandatory Vacations (at Least 10 Days)
+- Regular Password and Access Control Updates
+- Frequent review of user privileges
+- Need to know the work an employee is doing
+
+Help Employee's Understand
+- Risk
+- Importance for company
+- security policies
+
+ISO 27001 - States people need to do regular security awareness training.
+
+Termination Procedures:  
+- Always terminate the account
+- Give them just 15 minutes to get items
+- You can have Friendly Terminations or Unfriendly Terminations
+
+Determine important company functions
+
+## Random Notes for Domain One
+
+Configuration Management - know what has been changed and see what has been changed (Github, Auvik,)
+
+Patch Management 
+
+Clipping Levels - level of error to suspect something suspicious
+
+Audit Events from time to time
+
+**Unauthorized Access is a security violation**
+
+Incident Response:  Proper Action to be taken in an incident
+
+## Cyphers
+
+Stream Based Cyphers:  Each digit is encrypted one at a time
+Block-Based Cyphers:  Blocks of text
+CBC:  Like block-based but uses an initialization vector
+
+## ISO Standards to Know
+27002 - Guidelines for organizational security standards.  Includes selecting, implementation, and management of controls
+27017 - controls applied to the provision and use of cloud storage
+27018 - Protecting PII
+27034-1 - Application Security
+31000 - Risk Management
