@@ -10,7 +10,7 @@ In order to protect information assets, you need an information asset list.
 The ITAM is managing the life cycle of these assets (IT Asset Manager)
 Need to have:
  - name of asset
- - owner of the asset (typically the owner or stakeholders of an orgainization)
+ - owner of the asset (typically the owner or stakeholders of an organization)
  - custodian of the asset (person who is managing the file)
  - Classification of the asset
 
@@ -76,3 +76,37 @@ Personal Retention (Remember people are an asset)
  - Have a way to transfer operational knowledge in case of loss of the employee
  - Segment proprietary information so one person doesn't know it all
  - Use Non Disclosure Agreements.  (Sybex book made mention that Non-Competes can be hard to enforce)
+
+Data SEcurity Control Implementation
+- Data Loss Prevention
+- LImit use of thumb drives
+- [Sans Data Security](https://www.sans.org/white-papers/1398/)
+- Use approved drive encryption
+
+Continuous Monitoring
+- Configuration Management
+- Control Processes
+- Security Impact Analysis
+- Assessment of Selected Security 
+- Security Status Report
+- Active Involvement of Asset Owners
+
+Cloud Access Security Broker
+ - extend on premiss controls or transfer controls to the various cloud environments
+ - acts as a go between your onsite and cloud provider
+ - Provides: 
+   - Control and Monitoring
+   - Compliance Management
+   - Data Security
+   - Threat Protection
+
+Salami Slices- gathering data or stealing in small increments.  Think the movie Office Space where they were stealing 1/100ths of a penny
+ - also a serries of minor attacks that together turn into a larger attack.
+
+Power Grid Issues
+ - Total Failure (Blackout)
+ - Reduced Voltage (Brownout)
+ - Sags, Spikes, and Surges
+ - Electromagnetic Interference (EMI)
+
+Tailoring:  Modifying the list of security controls within a baseline to align with the mission of the organization
