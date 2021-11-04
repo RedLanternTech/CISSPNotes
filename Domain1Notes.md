@@ -135,8 +135,8 @@ A vulnerability can be real or theoretical.
 - Determine Probability 
 - Prioritize Risk
 
-Quantitative:  mathematical estimate, hard numbers.  
-Qualitative:  best guess, statements and valuations.  about impact, vulnerability, and threats.
+- Quantitative:  mathematical estimate, hard numbers.  
+- Qualitative:  best guess, statements and valuations.  about impact, vulnerability, and threats.
 
 Business Continuity Plan- Non technical.  Needs to be reviewed once a year.
 Disaster Recovery Plan - Technical.  Not every business needs a disaster recovery plan.
@@ -161,12 +161,12 @@ Business Impact Analysis
 - Lists the most important functions of the business
 - Includes Estimates of Tolerable Downtime
 
-Maximum Tolerable Downtime (MTD):  Acceptable downtime.  This comes from Management (not the tech team)
-Recovery Time Objectives:  How long it takes to get back up.
-Recovery Point Objective:  Amount of time we need to take bak ups
-Mean Time to Failure:  Time between failure in any system (MTTF)
-Mean Time to Repair:  Average time to repair (MTTR)
-MTTF needs to be increased while MTTR needs to be decreased
+- Maximum Tolerable Downtime (MTD):  Acceptable downtime.  This comes from Management (not the tech team)
+- Recovery Time Objectives:  How long it takes to get back up.
+- Recovery Point Objective:  Amount of time we need to take bak ups
+- Mean Time to Failure:  Time between failure in any system (MTTF)
+- Mean Time to Repair:  Average time to repair (MTTR)
+- MTTF needs to be increased while MTTR needs to be decreased
 
 ## Business Continuity Plan Team's Responsibilities
 - People Come First.  Needs to be in the BCP
@@ -208,9 +208,9 @@ Data Owners determine need to know information for each job role
 - not right to give your employees all access to everything
 - need a list from the data owner of who can access what
 
-Recovery Controls:  Backups and Redundancy
-Compensating Controls:  For when an existing system can't meet requirements
-Detective Controls:  to be able to find out when something happens
+- Recovery Controls:  Backups and Redundancy
+- Compensating Controls:  For when an existing system can't meet requirements
+- Detective Controls:  to be able to find out when something happens
 
 Job Sensitive Profile:  What access is needed.  Administrators use this to assign permissions.
 
@@ -261,12 +261,18 @@ Incident Response:  Proper Action to be taken in an incident
 ## Cyphers
 
 Stream Based Cyphers:  Each digit is encrypted one at a time
+
 Block-Based Cyphers:  Blocks of text
+
 CBC:  Like block-based but uses an initialization vector
 
 ## ISO Standards to Know
 27002 - Guidelines for organizational security standards.  Includes selecting, implementation, and management of controls
+
 27017 - controls applied to the provision and use of cloud storage
+
 27018 - Protecting PII
+
 27034-1 - Application Security
+
 31000 - Risk Management
