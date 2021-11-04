@@ -109,6 +109,7 @@ Asset Valuation
 - Accounting System
 
 Tangible and Untangle Assets go into Asset Valuation (AV)
+
 Exposure Factor (EF) - a percentage of the amount of loss if a specific threat or vulnerability is exploited.
 
 Risk = Threat * Vulnerability
