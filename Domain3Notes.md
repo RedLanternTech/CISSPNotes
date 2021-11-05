@@ -31,7 +31,94 @@ Trusted Computer Base Vulnerabilities
 
 ## Security Models:  You don't actually implement them, they are a concept.
 
-Bell-LaPradula:  Confidentiality.  **No Read Up, No Write Down**
-Biba:  Integrity.  **No Write Up, No Read Down**
-Clark-Wilson:  Integrity.  User uses a computer program to access data
-Brewer-Nash (aka Chinese Wall):  For conflict of interests.  Basically you build a wall between information.  Control will be taken based on decisions.
+- Bell-LaPradula:  Confidentiality.  **No Read Up, No Write Down**
+- Biba:  Integrity.  **No Write Up, No Read Down**
+- Clark-Wilson:  Integrity.  User uses a computer program to access data
+- Brewer-Nash (aka Chinese Wall):  For conflict of interests.  Basically you build a wall between information.  Control will be taken based on decisions.
+
+### TCSec
+- Orange book is another name
+- Created by the NIST, part of the rainbow books
+- For evaluating a trusted computer base
+- Goes from D (lowest) to A (highest) [Wikipedia](https://en.wikipedia.org/wiki/Trusted_Computer_System_Evaluation_Criteria)
+  - D:  Minimal protection
+  - C: Discretionary Protection
+    - C1-identification and authentication
+    - separation of users and data
+    - Discretionary Access Control (DAC) capable of enforcing access
+    - Required Security Docs and user manuals
+    - C2- Controlled Access Protection
+      - more finely grained DAC
+      - Individual accountability though login procedures
+      - Audit trails
+      - object reuse
+      - resource isolation
+  - B:  Mandatory Protection
+    - B1 - Labeled Security Protection
+      - Informal statement of the security policy model
+      - Data sensitive labels
+      - Mandatory Access Control (MAC) over selected subjects and objects
+      - Label exportation capabilities
+      - Some discovered flaws must be removed or otherwise mitigated
+      - Design specifications and verification
+    - B2 - Structured Protection
+      - Security policy model clearly defined and formally documented
+      - DAC and MAC enforcement extended to all subjects and objects
+      - Covert Storage channels are analyzed for occurrence and bandwidth
+      - Carefully structured into protection-critical and non-protection-critical elements
+      - Design and implementation enable more comprehensive testing and review
+      - authentication mechanisms are strengthened
+      - Trusted facility management is provided with administrator and operator segregation
+      - Strict configuration management controls are imposed
+      - Operator and Administrator roles are separated
+    - B3 - Security Domains
+      - Satisfies reference monitor requirements (enforces an access control policy over subjects ability to perform operations on objects on a system)
+      - Structured to exclude code not essential to security policy enforcement
+      - significant systems engineering directed toward minimizing complexity
+      - Security administrator role defined
+      - Audit security-relevant events
+      - Automated imminent intrusion detection, notification, and response
+      - Trusted path to the TCB for the user authentication function
+      - Trusted system recover procedures
+      - Convert timing channels are analyzed for occurrence and bandwidth
+    - A - Verified protection
+      - A1 - Verified Design
+        - Functionally identical to B3
+        - Formal design and verification techniques including a formal top-level specification
+        - Formal management and distribution procedures
+      - Beyond A1
+        - System Architecture demonstrates that the requirements of self-protection and completeness for reference monitors have been implemented in the TCB
+        - Security Testing automatically generates test-case from the formal top-level specification or formal lower-level specifications
+        - Formal specification and verification is where the TCB is verified down to the source code level
+
+### ITSec
+- European standard similar to TCSec
+- Evaluates functionality and assurance separetly
+  - functionality is testing if a system can do something or not
+  - assurance is testing if it does it all the time
+
+[Common Criteria - ISO 15408](https://en.wikipedia.org/wiki/Common_Criteria)
+
+Virtualization
+- Convert to isolated systmes
+- saves resources
+
+Fault Tolerance
+- Allows for quick recovery if a fault occures
+- keep data separate from device, no single dependency
+- ID your critical devices and have a redundant device
+- id your critical data and have it redundant as well
+- need to be based on MTD 
+
+Server Fault Tolerance
+- Clustering
+- Network Load Balancing
+- Virtualization
+- Redundance and Replication
+
+## Domain 3 Random Notes (probably from the Free Code Camp Video)
+
+Never trust email or cell numbers
+
+Constant training and education for yourself and your user base is always a great option.  
+
