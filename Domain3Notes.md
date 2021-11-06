@@ -158,7 +158,7 @@ EEE3 - means text has been encrypted 3 times with 3 different keys
 EDE - An encyrption key, then a decryption key.
 
 asymmetric encryption
-- Publikc/Private key encryption
+- Public/Private key encryption
 - PGP, SSL/TLS, RSA, El-Gaamel, Ecclesiastes- provides confidentiality, integrity and non-repudiation
 - you have to verify who you are to be issued a certificate
 
@@ -185,4 +185,28 @@ Physical Access Barriers
 - lighting
 - bollards
 
+Fences:  Just deterance.  No fence will stop an intruder
 
+Guards are the most expensive physical security
+
+Logs should be kept for all access
+
+**According to the ISC2, personal safety comes first and needs to be in all plans**
+
+Power Issues
+ - affect security devices and availability
+
+Fire Suppression
+- A:  Common, water, Soda, acid
+- B: Liquids - Gas/C02, soda, acid
+- C:  Electrical - Gas/C02
+- D: Metal - Dry Powder
+
+Fire extinguishers should be kept 50 feet from equipment and towards the door
+
+Halon:  Not used anymore.  Replaced with MF200
+
+Sprinklers
+- Wet Pipe:  always contains water, melts at 165F, not good for cold environments
+- Dry pipe:  water in tank until clapper valve opens
+- Deluge: Spreads a huge amount of water.  Not good for electrical
