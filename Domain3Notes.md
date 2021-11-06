@@ -146,3 +146,43 @@ Block cypher- divide plain text into blocks
 
 stream cypher - one character or byte by byte
 
+Initialization Vector - extra bytes to add randomization.  Gives you an extra so two plain text files will not give the same results.  Think Salt passwords.
+
+Symmetric algorithm issues.  
+- N(n-1)/2 where n is the number of users.  
+- key management and transportation are issues
+- it is easy to user
+
+EEE3 - means text has been encrypted 3 times with 3 different keys
+
+EDE - An encyrption key, then a decryption key.
+
+asymmetric encryption
+- Publikc/Private key encryption
+- PGP, SSL/TLS, RSA, El-Gaamel, Ecclesiastes- provides confidentiality, integrity and non-repudiation
+- you have to verify who you are to be issued a certificate
+
+Hashing.  Eusing encyrption to verify the integrity of the files
+
+Physical Security:  YOu may have a set of questions on what to use to fight fires (the proper fire suppression tools)
+
+Data Centers
+- know where to locate one (not in a basement)
+- not on last floor, basement, under bathrooms
+- should not have windows.
+
+4 Levels of Protection
+- deter
+- detect
+- delay
+- respond
+
+Physical Access Barriers 
+- fencing 
+- walls 
+- doors (memorize the weakest types and strengths).
+- windows
+- lighting
+- bollards
+
+
