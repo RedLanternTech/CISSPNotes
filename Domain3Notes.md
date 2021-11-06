@@ -122,3 +122,27 @@ Never trust email or cell numbers
 
 Constant training and education for yourself and your user base is always a great option.  
 
+### Cryptography
+
+Cryptography - Provides confidentiality and integrity
+
+All encryption protocols should be public so we know how they work, the secret part is the key
+
+The CISSP will **Never** suggest creating your own protocol
+
+128bit = 2 power of 128
+
+Cryptography takes processing power to work
+
+Substitution - Changing the letters
+
+Transposition - changing the location horizontally and veridically 
+
+Steganography - hiding information in a picture.  Can be detected via  hex editor
+
+Symmetric encryption - one key for encryption and decryption
+
+Block cypher- divide plain text into blocks
+
+stream cypher - one character or byte by byte
+
