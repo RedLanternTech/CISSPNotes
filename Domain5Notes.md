@@ -6,7 +6,7 @@ User/Subject and Resources/Object:  Subjects access an object
 
 Subject -> Reference Monitor -> Object (The reference monitor will deny access by default)
 
-Dont just consider technical security/logical security
+Don't just consider technical security/logical security
 
 ### Access Control Services:
 - Authorization
