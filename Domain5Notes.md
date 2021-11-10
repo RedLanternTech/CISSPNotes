@@ -105,5 +105,5 @@ Information Classification:  Practice of differentiating between types of inform
 
 When Access Control is based on the content, it is considered content dependent access control
 
-NIST 800-145 defines deployment and definition of Cloud Computing.  
+[NIST 800-145](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf) defines deployment and definition of Cloud Computing.  
 
