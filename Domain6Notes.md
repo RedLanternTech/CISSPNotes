@@ -32,3 +32,33 @@ Perform a Security Assessment when
 - a security breach occurs
 - routinely 
 
+Fine-tune reports for Management.  
+ - Nessus is a tool that can be used for vulnerability assessment
+ - OWASP Zap for Web applications
+
+There are a variety of tools that do vulnerability scanning
+- **don't use dark web tools at a professional level**
+- Always use Professional tools
+
+Penetration Testing
+- simulates an attack
+- less common but more intensive
+- difference between a penetration test and a real attack is intent
+- You must have a clearly defined scope before doing a penetration test
+
+Reports from a Penetration Test Should include
+- steps undertaken
+- weaknesses identified
+- recommendations
+
+Penetration Testing Steps
+1. Recon
+2. Scanning
+3. Exploitation
+4. Maintaining Access 
+5. Reporting
+
+Types of Tests:
+- Black Box:  you have no information about the target, most effective
+- White Box:  you have all the information about the target
+- Grey Box:  Balance between the two
