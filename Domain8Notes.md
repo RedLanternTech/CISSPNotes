@@ -27,3 +27,42 @@ Types of Disclosure:  Full or Partial
 - All phases run in parallel
 - Effective but security becomes a concern
 
+Spiral
+- PLan
+- Do
+- Check
+- Act
+- This is a quality model
+- it is a continuous process
+
+Clean Room
+- prevents changes
+- Needs more time at the beginning to reduce change
+
+Prototyping
+- making samples
+
+Agile
+- project management model
+- customer is involved in the process
+
+Case or Computer Aid Software Engineering
+- software helps develop the software
+
+Change Control 
+- need to have a proper change request
+- request change
+- approval
+- communicating the change
+- documenting the change 
+- test and repeat
+- implement the change
+- report the change
+
+When it comes to web forms (or any type of input), **Always Validate The Input**
+- this is true to prevent SQL injection attacks on web forms
+
+Integrity of data in software is needed
+- database integrity
+- entity integrity
+- referential integrity
