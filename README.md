@@ -12,7 +12,7 @@ Sites and Videos I like:
 
 [Why You Will Pass the CISSP](https://youtu.be/v2Y6Zog8h2A)
 
-[Why YOu Will Fail the CISSP](https://youtu.be/giJFhtws-CE)
+[Why You Will Fail the CISSP](https://youtu.be/giJFhtws-CE)
 
 [Full CISSP Course](https://youtu.be/M1_v5HBVHWo)
 
@@ -29,3 +29,5 @@ Sites and Videos I like:
 [11th Hour CISSP](https://www.amazon.com/Eleventh-Hour-CISSP-Study-Syngress/dp/1597495662)
 
 [Sybex Official Study Guide](https://www.amazon.com/Certified-Information-Security-Professional-Official/dp/1119790026/ref=sr_1_1?dchild=1&keywords=cissp+official+study+guide+9th&qid=1634258874&s=books&sr=1-1)
+
+[Official CBK Reference](https://www.amazon.com/Official-ISC-CISSP-CBK-Reference/dp/1119789990/ref=sr_1_1?crid=2PIK8RWEXCJ4Z&keywords=cissp+cbk&qid=1650743050&sprefix=cissp+cbk%2Caps%2C127&sr=8-1)
