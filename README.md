@@ -6,13 +6,15 @@ I'm also using this to test out github, learn markdown, and VI controls.  Lets s
 
 I am basically retyping my notes and keeping them all in Markdown docs.  One doc for each domain.  If the spelling looks horrible, sorry 
 
+Update April 2022:  I've also started the study group with FRSecure which so far in, has had great discussion.  [Register Here](https://frsecure.com/cissp-mentor-program/)
+
 Sites and Videos I like:
 
 [Why You Will Pass the CISSP](https://youtu.be/v2Y6Zog8h2A)
 
 [Why YOu Will Fail the CISSP](https://youtu.be/giJFhtws-CE)
 
-[Full CISSP Course (Thank you Free Code Camp](https://youtu.be/M1_v5HBVHWo)
+[Full CISSP Course](https://youtu.be/M1_v5HBVHWo)
 
 [Destination Certification](https://youtube.com/playlist?list=PLZKdGEfEyJhKWyryIvx_jm1jn6ZMTi7gW)
 
