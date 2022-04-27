@@ -6,12 +6,27 @@ Security Governance should align and enable the business to achieve its goals.  
  - create value
  - enable the business
 
+**Complexity is the worst enemy of security**
+
+## CIA Triad
+
 C - Confidentiality 
 
 I - Integrity
 
 A - Availability
 
+D - Disclosure
+
+A - Alteration
+
+D - Destruction
+
+Added by NIST
+- Accountablility 
+- Assurance
+
+## Assets and threats
 Asset- anything of value that can be compromised (physical, information, reputation)
 
 Threat - any event or action that can potentially cause harm
@@ -30,16 +45,25 @@ When we talk about security, we talk about technical security, administration se
 
 Not all vulnerabilities have a threat.  When Identifying vulnerabilities, we need to id the threats
 
+Incidents - when you have a security breach.  Policy Violations are an incident
+
 Defense in depth:  Don't depend on one thing, multiple layers if one fails
 
-Due Care - you were following the best standards.  Responsible.
+Due Care - you were following the best standards.  Responsible. Did you make an effort?  Can you show you are making progress?
 
-Due Diligence:  you did your research to make an informed decisions.  Proving Due Care
+Due Diligence:  you did your research to make an informed decisions.  Proving Due Care.  ensuring behavior
 
  - YOu need to be aware of weakness and vulnerabilities (Due Diligence)
  - Need to take action to secure (Due Care)
 
 Liability - who is responsible for damage
+
+Least Privlige-only enough permissions to perform their job
+
+Need to know-Even though someone has clearance, they do not get access to all items at that level
+
+Privacy is only related to confidentiality
+
 
 You need to know the laws and regulations to make informed decisions.  
 - Consult with the Legal Department or a lawyer to determine how laws and regulations impact security operations
@@ -48,6 +72,7 @@ You need to know the laws and regulations to make informed decisions.
 
 You need to have Senior Management Support.  This is the most important item to get buy-in to security.
 Always run a risk assessment.
+
 
 PII once exposed may not be recoverable, can be used for extortion, fraud, identity theft
 
@@ -58,6 +83,7 @@ Know all 4 tenants and the order of the ISC2 Code of Ethics
 - Act honorable, honestly, justly, responsibly, and legally.
 - Provide diligent and competent service to principals
 - Advance and protect the profession
+**PAPA** 
 
 Also know [RFC 1087](https://datatracker.ietf.org/doc/html/rfc1087)
 RFC1087 Characterizes unethical behavior as:
@@ -265,6 +291,41 @@ Stream Based Cyphers:  Each digit is encrypted one at a time
 Block-Based Cyphers:  Blocks of text
 
 CBC:  Like block-based but uses an initialization vector
+
+Information Security is not an IT Issue, its a business issue.  
+
+Ultimatly, its the board of directors who are resoponsible (or the top exceutives)
+
+Information Security should improve efficiency.  
+
+Security needs to be allgined with the business goals
+ - ask:  who, what why, when, where, how 
+ - or ask why 6 times
+
+**Everyone has a role in IT Security**
+
+## Frameworks to know
+**Don't build your own**
+
+NIST 800-53
+
+NIST Cyber Security Framework
+
+CISSecurity Critical Security Controls v7.1
+
+SSAE 18 SOC2
+
+SOC3:  Light version of SOC2
+
+### PCI 3.2.1 Major Requirement Categories
+- Build and Maintaint a Secure Network and Systems
+- Protect Cardholder Data
+- Maintain a Vulnerability Management Program
+- Impliment Storng Access Control Measures
+- Regularly Monitor and Test Networks
+- Mainaint an Information Security Policy
+
+[Source](pcisecuritystandards.org)
 
 ## ISO Standards to Know
 27002 - Guidelines for organizational security standards.  Includes selecting, implementation, and management of controls
