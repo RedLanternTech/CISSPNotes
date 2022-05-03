@@ -6,7 +6,7 @@ I'm also using this to test out github, learn markdown, and VI controls.  Lets s
 
 I am basically retyping my notes and keeping them all in Markdown docs.  One doc for each domain.  If the spelling looks horrible, sorry 
 
-Update April 2022:  I've also started the study group with FRSecure which so far in, has had great discussion.  [Register Here](https://frsecure.com/cissp-mentor-program/)
+Update April 2022:  I've also started attending the FRSecure study group/classes which so far has had great discussion.  [Register Here](https://frsecure.com/cissp-mentor-program/)
 
 Sites and Videos I like:
 
