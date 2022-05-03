@@ -16,6 +16,7 @@ I - Integrity
 
 A - Availability
 
+### Opposite of CIA
 D - Disclosure
 
 A - Alteration
