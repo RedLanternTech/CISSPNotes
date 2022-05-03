@@ -26,6 +26,23 @@ Added by NIST
 - Accountablility 
 - Assurance
 
+# Ethical Codes
+Know all 4 tenants and the order of the ISC2 Code of Ethics
+[ISC2 Code of Ethics](https://www.isc2.org/ethics)
+- Protect society, the common good, necessary public trust, and confidence, and the infrastructure.
+- Act honorable, honestly, justly, responsibly, and legally.
+- Provide diligent and competent service to principals
+- Advance and protect the profession
+**PAPA** 
+
+Also know [RFC 1087](https://datatracker.ietf.org/doc/html/rfc1087)
+RFC1087 Characterizes unethical behavior as:
+- seeks to gain unauthorized access to the resources of the internet
+- disrupts the intended use of the Internet
+- wastes resources (people, capacity, computer) though such actions,
+- destroys the integrity of computer-based information,
+- compromises the privacy of users
+
 ## Assets and threats
 Asset- anything of value that can be compromised (physical, information, reputation)
 
@@ -76,22 +93,6 @@ Always run a risk assessment.
 
 PII once exposed may not be recoverable, can be used for extortion, fraud, identity theft
 
-# Ethical Codes
-Know all 4 tenants and the order of the ISC2 Code of Ethics
-[ISC2 Code of Ethics](https://www.isc2.org/ethics)
-- Protect society, the common good, necessary public trust, and confidence, and the infrastructure.
-- Act honorable, honestly, justly, responsibly, and legally.
-- Provide diligent and competent service to principals
-- Advance and protect the profession
-**PAPA** 
-
-Also know [RFC 1087](https://datatracker.ietf.org/doc/html/rfc1087)
-RFC1087 Characterizes unethical behavior as:
-- seeks to gain unauthorized access to the resources of the internet
-- disrupts the intended use of the Internet
-- wastes resources (people, capacity, computer) though such actions,
-- destroys the integrity of computer-based information,
-- compromises the privacy of users
 
 Sarbans-Oxley, HIPPA, require a code of ethics.  
 
