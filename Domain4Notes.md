@@ -25,4 +25,3 @@
 - Link:  Ethernet
 
 RFC 2828 defines IKE as an Internet, IPSec, key establishing protocol that is intended for putting in place authentication keying material for use with ISAKMP
-
