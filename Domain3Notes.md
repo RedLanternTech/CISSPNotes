@@ -194,9 +194,11 @@ Logs should be kept for all access
 **According to the ISC2, personal safety comes first and needs to be in all plans**
 
 Power Issues
+
  - affect security devices and availability
 
 Fire Suppression
+
 - A:  Common, water, Soda, acid
 - B: Liquids - Gas/C02, soda, acid
 - C:  Electrical - Gas/C02
