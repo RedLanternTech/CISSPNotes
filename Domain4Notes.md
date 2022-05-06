@@ -26,4 +26,4 @@
 
 RFC 2828 defines IKE as an Internet, IPSec, key establishing protocol that is intended for putting in place authentication keying material for use with ISAKMP
 
-**Test Line 29**
+As a note, NIST strong discourages BYOD.  It is best from a security standpoint to provide Employees devices the company controls.
