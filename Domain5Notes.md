@@ -2,6 +2,11 @@
 - use the security Triad (CIA)
 - when you use it you can define
 
+- Objects:  assets that require access control.
+- Subjects:  Either humands or entities like systems, process, and devices.  Require Access to objects.
+- Access:  anything a subject is permitted to do with or to an object.
+
+
 User/Subject and Resources/Object:  Subjects access an object
 
 Subject -> Reference Monitor -> Object (The reference monitor will deny access by default)
@@ -13,6 +18,7 @@ Don't just consider technical security/logical security
 - Audit
 - Accountability
 - Identification
+- Nonrepudiation 
 
 1. ID entity attempting access
 2. Verify ID
@@ -38,6 +44,12 @@ Identification Must be
 - Time bound
 
 Identification helps for accountability
+
+### Types of Identification Factors 
+- Type 1:  something a user or entity knows
+- Type 2:  something a user has possession of. 
+- Type 3:  Measurement of one of the user's biological characteristics. 
+- Type 4:  Where the person is.  
 
 Passwords are the cheapest to do but easiest to crack or bypass.
 - Passwords need to come with policies for changing, creation, and storage 
@@ -90,7 +102,7 @@ Human Based Attacks
 
 Intrusion Detection Systems
  - appliance or software
- - detects traffic in the network and will **notify you**.  It **will not** stop an attack.
+ - detects traffic in the network and will **notify you**.  It **will not** stop an attack. And IPS or Intrusion Prevention System will stop an attack. 
  - Snort-is a major application for this (open source)
  - can be signature based or behavior based.  Behavior base builds a baseline and will ID issues after time
 
