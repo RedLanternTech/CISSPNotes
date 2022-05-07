@@ -32,6 +32,10 @@ Mandatory Access Control:  Classifying your info.  Clearance level for each user
 
 Non-Discretionary Access Control:  Role-Based and Rule Based
 
+Role-Based Access Control:  maps subjecs to objects based on the user's role in the organization.
+
+Rule-Based Access Control:  Based on a list of predefined rules.
+
 Identification Must be
 - unique
 - content dependent
@@ -47,6 +51,11 @@ Passwords are the cheapest to do but easiest to crack or bypass.
 - Something you know (password)
 - Something you have (security token)
 - Something you are (biometrics)
+
+### Identity Assurance Levels 
+- IAL 1:  lowest leve, only requires user to self-assert an identity. 
+- IAL 2:  Requires submission of identity documentation and proofing to the Credential Srvice Provider (CSP).  Frequently used in employment situations.
+- IAL 3:  Requires physical presence and formal review.
 
 Tokens:
 - Synchronous  depends on timing
