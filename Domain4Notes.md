@@ -1,3 +1,5 @@
+# Note:  Not going to lie, I blew this domain off because its my strongest domain.  I will gladly take anyones suggestions.  
+
 # OSI Model
 **All People Seem To Need Data Processing**
 
@@ -55,3 +57,29 @@ Vlans.  We tag specific ports to be on vlans.  Switches can't route between vlan
 You may see BGP, OSPF and RIP on the exam.  BGP would be external, OSPF for areas, RIP is just listening to neighbors.  All happens at layer 3
 
 Gateway's operate at all 7 layers of the osi model.  
+
+Proxies Do not translate protocols like Gateways.  Operate at all 7 layers
+
+Lan Extender:  Extends beyond 100M (328ft).  Work at Layer 2.  Temporary.  
+
+## Ethernet 
+- IEEE 802:3
+- Most Common
+- Usually star or Busch
+- two-way full duplex
+- Layer 2 technology
+- PDU is the frame
+- Carrier Senses multiple access - Collision detection
+
+## Network Access Control .`
+- Deny netwokr access to noncompliant devices
+- yo have to lay out how to plan it, think before you buy.  Plan out policies.  
+- pre-adminission:  evaluates access attemps and only allows entry to authorized devices and users
+- post-admission:  reauthenticates users trying to enter a different part of the network .  also restricts lateral movment to limit the damage from cyber attacks.  
+- Capative Portals.  There are 1000s of ways to do NAC 
+
+## VPN
+- PPTP:  Layer 2, oldest, not recommended.  Uses same protocols as PPP.  
+- SSTP:  uses SSL
+- Frame Relay:  emulates a switched network, operates at layer 1 and 2, typically used on WANs.  
+- ATM:  used by IsPs on their private networks.  no routing, ATM cells are 53 bytes.  CBR, VBR, ABR, UBR.  

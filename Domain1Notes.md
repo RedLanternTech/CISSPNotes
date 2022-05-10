@@ -104,7 +104,7 @@ Documentation:
 Most important document is to have one for information handling (per something I wrote down :-( )
 
 # Types of Documents
-- Policy:  high level statement of management intentions
+- Policy:  high level statement of management intentions.  **Always Start With Policy.**
 - Standard:  REquired implementation or use of tools
 - Procedure:  Step by step on how to do something
 - Baseline:  Minimum security required for a system or process
