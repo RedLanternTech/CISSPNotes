@@ -6,12 +6,15 @@
 - Subjects:  Either humands or entities like systems, process, and devices.  Require Access to objects.
 - Access:  anything a subject is permitted to do with or to an object.
 
+NIST 800-63B is the best source to read
 
 User/Subject and Resources/Object:  Subjects access an object
 
 Subject -> Reference Monitor -> Object (The reference monitor will deny access by default)
 
 Don't just consider technical security/logical security
+
+Encryption can also be a form of access control 
 
 ### Access Control Services:
 - Authorization
@@ -49,9 +52,15 @@ Identification Must be
 
 Identification helps for accountability
 
+## Terms to Know. 
+ - Sponsorship authorized entity sponsoring the subject
+ - Entrollment:  Initial provisioning. 
+ - Credential production:  by service provder.  
+ - Issuance:  Provided to subject.  
+ 
 ### Types of Identification Factors 
-- Type 1:  something a user or entity knows
-- Type 2:  something a user has possession of. 
+- Type 1:  something a user or entity knows.  Known secrets.  
+- Type 2:  something a user has possession of
 - Type 3:  Measurement of one of the user's biological characteristics. 
 - Type 4:  Where the person is.  
 
@@ -65,6 +74,7 @@ Passwords are the cheapest to do but easiest to crack or bypass.
 - Something you are (biometrics)
 
 ### Identity Assurance Levels 
+- NIST SP 800-63-3 "Digital Identity Guidelines"
 - IAL 1:  lowest leve, only requires user to self-assert an identity. 
 - IAL 2:  Requires submission of identity documentation and proofing to the Credential Srvice Provider (CSP).  Frequently used in employment situations.
 - IAL 3:  Requires physical presence and formal review.
@@ -128,3 +138,17 @@ When Access Control is based on the content, it is considered content dependent 
 
 [NIST 800-145](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf) defines deployment and definition of Cloud Computing.  
 
+## FRSecure Notes (hopefully I'll copy them above this line)
+
+- For ZeroTrust, you need access control at all levels.  
+- **Authentication is proving identity**
+- **Authorization is what they are allowed to do** 
+
+**Hashing Can Also Prove authenticity**
+
+- Provisioning - Granting Access
+- DeProvisioning - Taking it away
+
+For physical security, watch the two video's from the slide deck (slides 37 and 38)
+ 
+- Data Map:  Shows where your data is going.  So you can know who as access to it.
