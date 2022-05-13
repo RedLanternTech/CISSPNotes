@@ -6,7 +6,7 @@
 - Subjects:  Either humands or entities like systems, process, and devices.  Require Access to objects.
 - Access:  anything a subject is permitted to do with or to an object.
 
-NIST 800-63B is the best source to read
+(NIST 800-63B is the best source to read)[https://pages.nist.gov/800-63-3/sp800-63b.html]
 
 User/Subject and Resources/Object:  Subjects access an object
 
@@ -75,7 +75,7 @@ Passwords are the cheapest to do but easiest to crack or bypass.
 
 ### Identity Assurance Levels 
 - NIST SP 800-63-3 "Digital Identity Guidelines"
-- IAL 1:  lowest leve, only requires user to self-assert an identity. 
+- IAL 1:  lowest level, only requires user to self-assert an identity. 
 - IAL 2:  Requires submission of identity documentation and proofing to the Credential Srvice Provider (CSP).  Frequently used in employment situations.
 - IAL 3:  Requires physical presence and formal review.
 
