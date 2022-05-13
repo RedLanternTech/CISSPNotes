@@ -79,6 +79,15 @@ Passwords are the cheapest to do but easiest to crack or bypass.
 - IAL 2:  Requires submission of identity documentation and proofing to the Credential Srvice Provider (CSP).  Frequently used in employment situations.
 - IAL 3:  Requires physical presence and formal review.
 
+- For ZeroTrust, you need access control at all levels.  
+- **Authentication is proving identity**
+- **Authorization is what they are allowed to do** 
+
+**Hashing Can Also Prove authenticity**
+
+- Provisioning - Granting Access
+- DeProvisioning - Taking it away
+
 Tokens:
 - Synchronous  depends on timing
 - Asynchronous:  depends on a math formula.  you type a number and it gives you one
@@ -140,14 +149,6 @@ When Access Control is based on the content, it is considered content dependent 
 
 ## FRSecure Notes (hopefully I'll copy them above this line)
 
-- For ZeroTrust, you need access control at all levels.  
-- **Authentication is proving identity**
-- **Authorization is what they are allowed to do** 
-
-**Hashing Can Also Prove authenticity**
-
-- Provisioning - Granting Access
-- DeProvisioning - Taking it away
 
 For physical security, watch the two video's from the slide deck (slides 37 and 38)
  
