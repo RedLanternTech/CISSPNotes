@@ -149,7 +149,9 @@ When Access Control is based on the content, it is considered content dependent 
 
 ## FRSecure Notes (hopefully I'll copy them above this line)
 
-
-For physical security, watch the two video's from the slide deck (slides 37 and 38)
- 
 - Data Map:  Shows where your data is going.  So you can know who as access to it.
+
+## Video's to watch and links to read.  
+(Sentry AI)[https://www.youtube.com/watch?v=k_Y6I4igjIY]
+(Google Data Center Security)[https://www.youtube.com/watch?v=kd33UVZhnAA]
+(Microsoft Identity Readout)[https://docs.microsoft.com/en-us/windows-server/security/kerberos/passwords-technical-overview]
