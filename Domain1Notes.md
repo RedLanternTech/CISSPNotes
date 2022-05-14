@@ -25,6 +25,10 @@ I - Integrity
 
 A - Availability
 
+Added by NIST
+- Accountablility 
+- Assurance
+
 ### Opposite of CIA
 D - Disclosure
 
@@ -32,9 +36,6 @@ A - Alteration
 
 D - Destruction
 
-Added by NIST
-- Accountablility 
-- Assurance
 
 
 Also know [RFC 1087](https://datatracker.ietf.org/doc/html/rfc1087)
