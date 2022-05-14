@@ -6,7 +6,7 @@
 - Subjects:  Either humands or entities like systems, process, and devices.  Require Access to objects.
 - Access:  anything a subject is permitted to do with or to an object.
 
-NIST 800-63B is the best source to read
+(NIST 800-63B is the best source to read)[https://pages.nist.gov/800-63-3/sp800-63b.html]
 
 User/Subject and Resources/Object:  Subjects access an object
 
@@ -75,9 +75,18 @@ Passwords are the cheapest to do but easiest to crack or bypass.
 
 ### Identity Assurance Levels 
 - NIST SP 800-63-3 "Digital Identity Guidelines"
-- IAL 1:  lowest leve, only requires user to self-assert an identity. 
+- IAL 1:  lowest level, only requires user to self-assert an identity. 
 - IAL 2:  Requires submission of identity documentation and proofing to the Credential Srvice Provider (CSP).  Frequently used in employment situations.
 - IAL 3:  Requires physical presence and formal review.
+
+- For ZeroTrust, you need access control at all levels.  
+- **Authentication is proving identity**
+- **Authorization is what they are allowed to do** 
+
+**Hashing Can Also Prove authenticity**
+
+- Provisioning - Granting Access
+- DeProvisioning - Taking it away
 
 Tokens:
 - Synchronous  depends on timing
@@ -140,15 +149,9 @@ When Access Control is based on the content, it is considered content dependent 
 
 ## FRSecure Notes (hopefully I'll copy them above this line)
 
-- For ZeroTrust, you need access control at all levels.  
-- **Authentication is proving identity**
-- **Authorization is what they are allowed to do** 
-
-**Hashing Can Also Prove authenticity**
-
-- Provisioning - Granting Access
-- DeProvisioning - Taking it away
-
-For physical security, watch the two video's from the slide deck (slides 37 and 38)
- 
 - Data Map:  Shows where your data is going.  So you can know who as access to it.
+
+## Video's to watch and links to read.  
+(Sentry AI)[https://www.youtube.com/watch?v=k_Y6I4igjIY]
+(Google Data Center Security)[https://www.youtube.com/watch?v=kd33UVZhnAA]
+(Microsoft Identity Readout)[https://docs.microsoft.com/en-us/windows-server/security/kerberos/passwords-technical-overview]
