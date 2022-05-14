@@ -36,8 +36,6 @@ A - Alteration
 
 D - Destruction
 
-
-
 Also know [RFC 1087](https://datatracker.ietf.org/doc/html/rfc1087)
 RFC1087 Characterizes unethical behavior as:
 - seeks to gain unauthorized access to the resources of the internet
@@ -73,7 +71,7 @@ Due Care - you were following the best standards.  Responsible. Did you make an 
 
 Due Diligence:  you did your research to make an informed decisions.  Proving Due Care.  ensuring behavior
 
- - YOu need to be aware of weakness and vulnerabilities (Due Diligence)
+ - You need to be aware of weakness and vulnerabilities (Due Diligence)
  - Need to take action to secure (Due Care)
 
 Liability - who is responsible for damage
@@ -107,7 +105,7 @@ Most important document is to have one for information handling (per something I
 
 # Types of Documents
 - Policy:  high level statement of management intentions.  **Always Start With Policy.**
-- Standard:  REquired implementation or use of tools
+- Standard:  Required implementation or use of tools
 - Procedure:  Step by step on how to do something
 - Baseline:  Minimum security required for a system or process
 - Guidelines:  Recommendations or suggestions.  This is the only one that is optional.  
