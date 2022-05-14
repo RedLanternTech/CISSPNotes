@@ -1,5 +1,14 @@
 # Domain 1 Notes
 
+# Ethical Codes
+Know all 4 tenants and the order of the ISC2 Code of Ethics
+[ISC2 Code of Ethics](https://www.isc2.org/ethics)
+- Protect society, the common good, necessary public trust, and confidence, and the infrastructure.
+- Act honorable, honestly, justly, responsibly, and legally.
+- Provide diligent and competent service to principals
+- Advance and protect the profession
+**PAPA** 
+
 The first approach should be risk management
 
 Security Governance should align and enable the business to achieve its goals.  Security needs to 
@@ -27,14 +36,6 @@ Added by NIST
 - Accountablility 
 - Assurance
 
-# Ethical Codes
-Know all 4 tenants and the order of the ISC2 Code of Ethics
-[ISC2 Code of Ethics](https://www.isc2.org/ethics)
-- Protect society, the common good, necessary public trust, and confidence, and the infrastructure.
-- Act honorable, honestly, justly, responsibly, and legally.
-- Provide diligent and competent service to principals
-- Advance and protect the profession
-**PAPA** 
 
 Also know [RFC 1087](https://datatracker.ietf.org/doc/html/rfc1087)
 RFC1087 Characterizes unethical behavior as:
