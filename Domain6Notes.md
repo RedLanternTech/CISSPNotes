@@ -62,3 +62,10 @@ Types of Tests:
 - Black Box:  you have no information about the target, most effective
 - White Box:  you have all the information about the target
 - Grey Box:  Balance between the two
+
+### CMM - Capability Maturity Model 
+1. Initial-Processes are unpredictable 
+2. Managed - Processes characterized for the project are reactive
+3. Define - Processes are proactive 
+4. Quantitative - Processes are measured and controlled 
+5. Optimized - Focus on process improvement
