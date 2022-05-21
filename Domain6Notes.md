@@ -34,6 +34,7 @@ Perform a Security Assessment when
 
 Fine-tune reports for Management.  
  - Nessus is a tool that can be used for vulnerability assessment
+ - OpenVAS as well
  - OWASP Zap for Web applications
 
 There are a variety of tools that do vulnerability scanning
@@ -63,9 +64,58 @@ Types of Tests:
 - White Box:  you have all the information about the target
 - Grey Box:  Balance between the two
 
+<<<<<<< HEAD
 ### CMM - Capability Maturity Model 
 1. Initial-Processes are unpredictable 
 2. Managed - Processes characterized for the project are reactive
 3. Define - Processes are proactive 
 4. Quantitative - Processes are measured and controlled 
 5. Optimized - Focus on process improvement
+=======
+## FR Secure notes
+
+- Scope:  What are we testing and why.
+ - You need to know what your boundaries are
+- Assset Management is the key to good vulnerability scanning 
+- Auditing, you have to pull information from everyone. 
+- You need to have a Business Impact Analysis for your systems and the criticality of your systems when doing vulnerability testing
+- CVSS scores do not take into account any compensating controls in your environment. 
+- Think about increased traffic and a potential ddos.  Properly configure the scans.
+- scans are idealy done durring low user activity.
+
+## Pen Testing Steps from CISSP Book 
+1. Planning
+2. Recon
+3. Scanning 
+4. Vulnerability assessment 
+5. Exploitation 
+6. Reporting (Most Important Part.  Tells Owners how you owned the system, and recommended mitigation)
+
+Read the PenTesters Framework for more information. 
+
+**Make sure to always have your scope letter, even if you are doing digital pen testing**
+
+- Pen Testers should Assure Confidentiality, Data Integrity, and System Integrity 
+- When you are doing pen testing, someone should know about it or it could launch a full incident 
+
+**assessing the effectiveness**
+
+### Three Types of Controls
+- Administrative 
+- Physical 
+- Technical 
+
+## Software Testing Methods 
+- Static testing:  looking within the code while its not running 
+- Dynamic testing:  looking while its executing 
+- Whitebox:  You get access to all the code 
+- black box:  given no details
+- traceability matrix: map customers requirements 
+- Fuzzing:  just throw random stuff at the program 
+
+Misuse Case Testing
+
+Abuse Cases:  Looking to abuse system escalation privlidges, etc. 
+
+
+>>>>>>> 387fecd45d68187797ba1952581c7f93e899b637

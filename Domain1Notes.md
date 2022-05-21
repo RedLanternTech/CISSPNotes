@@ -1,5 +1,14 @@
 # Domain 1 Notes
 
+# Ethical Codes
+Know all 4 tenants and the order of the ISC2 Code of Ethics
+[ISC2 Code of Ethics](https://www.isc2.org/ethics)
+- Protect society, the common good, necessary public trust, and confidence, and the infrastructure.
+- Act honorable, honestly, justly, responsibly, and legally.
+- Provide diligent and competent service to principals
+- Advance and protect the profession
+**PAPA** 
+
 The first approach should be risk management
 
 Security Governance should align and enable the business to achieve its goals.  Security needs to 
@@ -16,25 +25,16 @@ I - Integrity
 
 A - Availability
 
+Added by NIST
+- Accountablility 
+- Assurance
+
 ### Opposite of CIA
 D - Disclosure
 
 A - Alteration
 
 D - Destruction
-
-Added by NIST
-- Accountablility 
-- Assurance
-
-# Ethical Codes
-Know all 4 tenants and the order of the ISC2 Code of Ethics
-[ISC2 Code of Ethics](https://www.isc2.org/ethics)
-- Protect society, the common good, necessary public trust, and confidence, and the infrastructure.
-- Act honorable, honestly, justly, responsibly, and legally.
-- Provide diligent and competent service to principals
-- Advance and protect the profession
-**PAPA** 
 
 Also know [RFC 1087](https://datatracker.ietf.org/doc/html/rfc1087)
 RFC1087 Characterizes unethical behavior as:
@@ -71,7 +71,7 @@ Due Care - you were following the best standards.  Responsible. Did you make an 
 
 Due Diligence:  you did your research to make an informed decisions.  Proving Due Care.  ensuring behavior
 
- - YOu need to be aware of weakness and vulnerabilities (Due Diligence)
+ - You need to be aware of weakness and vulnerabilities (Due Diligence)
  - Need to take action to secure (Due Care)
 
 Liability - who is responsible for damage
@@ -105,7 +105,7 @@ Most important document is to have one for information handling (per something I
 
 # Types of Documents
 - Policy:  high level statement of management intentions.  **Always Start With Policy.**
-- Standard:  REquired implementation or use of tools
+- Standard:  Required implementation or use of tools
 - Procedure:  Step by step on how to do something
 - Baseline:  Minimum security required for a system or process
 - Guidelines:  Recommendations or suggestions.  This is the only one that is optional.  

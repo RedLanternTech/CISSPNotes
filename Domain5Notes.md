@@ -97,6 +97,7 @@ Biometrics
 - Need to look at the convergence of the False Reject Rate (type 1 error) and False accept rate(type 2 error).  False Accept is worse than a False Reject.  
 - Crossover error rate is where the two meet. 
 - See pages 122 and 123 of 11th Hour for the different types
+- A false accept is worse for security than a false reject
 
 ### Single Sign On Methods
 - Kerberos.  Uses a Key Distribution Server and a Ticket Granting Server
@@ -152,6 +153,30 @@ When Access Control is based on the content, it is considered content dependent 
 - Data Map:  Shows where your data is going.  So you can know who as access to it.
 
 ## Video's to watch and links to read.  
-(Sentry AI)[https://www.youtube.com/watch?v=k_Y6I4igjIY]
-(Google Data Center Security)[https://www.youtube.com/watch?v=kd33UVZhnAA]
-(Microsoft Identity Readout)[https://docs.microsoft.com/en-us/windows-server/security/kerberos/passwords-technical-overview]
+[Sentry AI](https://www.youtube.com/watch?v=k_Y6I4igjIY)
+[Google Data Center Security](https://www.youtube.com/watch?v=kd33UVZhnAA)
+[Microsoft Identity Readout](https://docs.microsoft.com/en-us/windows-server/security/kerberos/passwords-technical-overview)
+[Microsoft Identity Management Readout](https://docs.microsoft.com/en-us/azure/security/fundamentals/identity-management-overview)
+
+## FR Secure Continued 
+
+- Review Microsoft Password Guideance PDF Document 
+- Need to know AAL Authenticator Assurance Levels in SP800-63B.  See the summary of requirements
+- Knowbe4.com 11 ways to defeat 2fa Roger Grimes 
+- OWASP Session Management Cheat Sheet 
+
+- Difference Between Centralized and Decentralized Access Control.  
+ - Centralized Control:  Once place,
+ - Decentralized:  Multiple Places.  Allows for more granularity 
+  - Do not confuse Decentralized Access Control and DAC (discretionary access control)
+- Ping Identity "What is Single-Sign On"
+- Fido and SAML are not synonymous 
+
+- Mandatory Access Control is for confidentiality of the data 
+- Discretionary Access Control: gives subjects full control of object.  
+- Attribute-based access control:  
+ - Risk based access control
+ 
+ Read the links in the slide show for part 2. 
+ An illustrated guide to oauth and openid Connect. 
+ 
