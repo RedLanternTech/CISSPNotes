@@ -122,3 +122,78 @@ Integrity of data in software is needed
 - The Theme:  What are we going to do, what is the plan, what are we designing, how do we make it, how do we get it into an operational state 
 
 Change control will trigger a review for potential security impacts
+
+- Includes a Change Management Board 
+
+## Flow of Change Management 
+- request
+- Analysis and approval 
+- Change Development 
+- Impliment the Change 
+- Test.  Always make sure you have a rollback plan.   
+- Postmortem/Lessons Learned/After Action:  Did this work, what is the new state 
+
+## Emergency Change Management. 
+- has to happen now 
+- need to minimize the delay 
+- single member may grant approval 
+- Testing and verification proccesses are similarly streamlined 
+- go back after the fact and do the regression testing, 
+- documentation is still required. 
+
+## Integrated Product Team. 
+- collection of multidisciplinary individuals. 
+
+# ID and Identify Security Controls 
+
+- In interpreted languages (Python and Javascript) you can read the source code 
+
+- Libraries - prewriten repositories of common functions, code, classes, scripts, procedures.  It is a collection of functionality to pull from instead of writing from scratch. 
+- SDK's speeds developers building programs for specific items but introduces security functions. 
+- Pretty much all the code these days comes from libraries. 
+
+## CI/CD 
+- Continuous practice of integrating code into a repository 
+- we are fixing things quickly and things are up to date. 
+- you can bake security testing in. Such as a static code analysis at build and a dynamic code analysis at push to production. 
+- CI/CD pipelines will rely heavily on automation.  
+
+## SOAR 
+- Security Orchestration, Automation, and Response. 
+- using known items to automate responses to threats
+- the better your inventory, the better SOAR works .
+
+- Orchestration:  soar is going to run analytics, leverage totality of your security tools. 
+- Automation:  going to follow playbooks.  
+- Response:  automated responses.
+- SOAR still requires a human component.  Humans need to respond to the incidents. 
+
+## Software Configuration Management 
+- about managing change and change management in the concept of applying to security 
+- ensure configuration changes or cordinatited to not introduce flaws
+- uses baselines to set the minimum bar to the least things we have to do 
+- Goal is to promote visibility and control over the state of change. Better you manage changes, better you can tie them back to configuration items. 
+- Verifys you do not violate **CIANA (Confidentiality, Integrity, Authenticity, Non-Repudiation, Authenticity)**  If you are doing this well, a non approved change would be an active threat 
+
+- Code Repositories can help secure code.  Need to be monitored and properly secured. How are you controling access control and communications.  Your repo can be calling other repos.  
+
+## Application Security Testing 
+- Static Security testing.  Looking at compiled binaries.  Not run against production typically.  
+- Dynamic - Runs at runtime.  Not tied to the IDE, Non-Developers can access the results.  Outside the developers toolset.  
+- Interactive Application Security Testing - Pen testing and complex security algorithms, can cause performance issues 
+- Runtime Application Self-Protection - executes alongside the application as it runs.  SOAR for security testing basically. 
+
+## Assess the effectiveness of software security 
+- Log and automate changes 
+- at multiple steps, you need to see that the things you expect to happen are actually happening. 
+
+- Auditing:  is an official inspection of something.  going to follow a standard
+- Logging:  is the recording of events.  
+
+- Think about Accountability and Non-Repudiation.  Advisable to use a one-way logging writebox.  No editing after the fact. 
+
+- Logs are generated after the fact.  They tell you what has happened after it is done.  
+- look at GreyLog and Splunk for logging.  If doing splunk it is a full time job.  Requires specialized skills.  
+
+- Should be logging events in source code management. Usefull in troubleshooting.  
+
