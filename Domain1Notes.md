@@ -76,7 +76,7 @@ Due Diligence:  you did your research to make an informed decisions.  Proving Du
 
 Liability - who is responsible for damage
 
-Least Privlige-only enough permissions to perform their job
+Least Privilege-only enough permissions to perform their job
 
 Need to know-Even though someone has clearance, they do not get access to all items at that level
 
@@ -205,7 +205,7 @@ Business Impact Analysis
 ## Disaster Recovery Plan
 
 Priority Levels
-- Short Term - MIrroring site
+- Short Term - Mirroring site
 - Mid Term - Rebuilding
 - Long Term - Rebuilding
 
