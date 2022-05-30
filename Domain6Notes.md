@@ -64,7 +64,6 @@ Types of Tests:
 - White Box:  you have all the information about the target
 - Grey Box:  Balance between the two
 
-<<<<<<< HEAD
 ### CMM - Capability Maturity Model 
 1. Initial-Processes are unpredictable 
 2. Managed - Processes characterized for the project are reactive
@@ -118,4 +117,3 @@ Misuse Case Testing
 Abuse Cases:  Looking to abuse system escalation privlidges, etc. 
 
 
->>>>>>> 387fecd45d68187797ba1952581c7f93e899b637
