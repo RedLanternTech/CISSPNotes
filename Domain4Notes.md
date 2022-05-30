@@ -72,7 +72,7 @@ Lan Extender:  Extends beyond 100M (328ft).  Work at Layer 2.  Temporary.
 - Carrier Senses multiple access - Collision detection
 
 ## Network Access Control .`
-- Deny netwokr access to noncompliant devices
+- Deny network access to noncompliant devices
 - yo have to lay out how to plan it, think before you buy.  Plan out policies.  
 - pre-adminission:  evaluates access attemps and only allows entry to authorized devices and users
 - post-admission:  reauthenticates users trying to enter a different part of the network .  also restricts lateral movment to limit the damage from cyber attacks.  
