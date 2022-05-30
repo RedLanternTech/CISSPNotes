@@ -77,9 +77,9 @@ Personal Retention (Remember people are an asset)
  - Segment proprietary information so one person doesn't know it all
  - Use Non Disclosure Agreements.  (Sybex book made mention that Non-Competes can be hard to enforce)
 
-Data SEcurity Control Implementation
+Data Security Control Implementation
 - Data Loss Prevention
-- LImit use of thumb drives
+- Limit use of thumb drives
 - [Sans Data Security](https://www.sans.org/white-papers/1398/)
 - Use approved drive encryption
 
@@ -92,7 +92,7 @@ Continuous Monitoring
 - Active Involvement of Asset Owners
 
 Cloud Access Security Broker
- - extend on premiss controls or transfer controls to the various cloud environments
+ - extend on premise controls or transfer controls to the various cloud environments
  - acts as a go between your onsite and cloud provider
  - Provides: 
    - Control and Monitoring
@@ -101,7 +101,7 @@ Cloud Access Security Broker
    - Threat Protection
 
 Salami Slices- gathering data or stealing in small increments.  Think the movie Office Space where they were stealing 1/100ths of a penny
- - also a serries of minor attacks that together turn into a larger attack.
+ - also a series of minor attacks that together turn into a larger attack.
 
 Power Grid Issues
  - Total Failure (Blackout)
