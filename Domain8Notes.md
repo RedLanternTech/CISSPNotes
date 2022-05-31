@@ -151,12 +151,14 @@ Change control will trigger a review for potential security impacts
 - Libraries - prewriten repositories of common functions, code, classes, scripts, procedures.  It is a collection of functionality to pull from instead of writing from scratch. 
 - SDK's speeds developers building programs for specific items but introduces security functions. 
 - Pretty much all the code these days comes from libraries. 
+- Runetime:  a collection of all hardware and software required to actually run an application.  
 
 ## CI/CD 
 - Continuous practice of integrating code into a repository 
 - we are fixing things quickly and things are up to date. 
 - you can bake security testing in. Such as a static code analysis at build and a dynamic code analysis at push to production. 
 - CI/CD pipelines will rely heavily on automation.  
+- infrastructure as Code.  being able to quickly spin up virtualized sytems using pre-defined templates. 
 
 ## SOAR 
 - Security Orchestration, Automation, and Response. 
@@ -167,13 +169,14 @@ Change control will trigger a review for potential security impacts
 - Automation:  going to follow playbooks.  
 - Response:  automated responses.
 - SOAR still requires a human component.  Humans need to respond to the incidents. 
+- SOARS get confused with SIEMs.  SIEMs only ingest data, they don't auto respond. 
 
 ## Software Configuration Management 
 - about managing change and change management in the concept of applying to security 
 - ensure configuration changes or cordinatited to not introduce flaws
 - uses baselines to set the minimum bar to the least things we have to do 
 - Goal is to promote visibility and control over the state of change. Better you manage changes, better you can tie them back to configuration items. 
-- Verifys you do not violate **CIANA (Confidentiality, Integrity, Authenticity, Non-Repudiation, Authenticity)**  If you are doing this well, a non approved change would be an active threat 
+- Verify you do not violate **CIANA (Confidentiality, Integrity, Authenticity, Non-Repudiation, Authenticity)**  If you are doing this well, a non approved change would be an active threat 
 
 - Code Repositories can help secure code.  Need to be monitored and properly secured. How are you controling access control and communications.  Your repo can be calling other repos.  
 
