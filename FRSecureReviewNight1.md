@@ -1,4 +1,4 @@
-# Session 12 Notes 
+# Session 12 and 13 Notes 
 
 # Tips for the Exam 
 - Think Like a Risk Manager 
@@ -25,7 +25,21 @@ MD5 will always do a 128 bit
 
 Threats exploit vulnerabilities 
 
-  * [ ] Spiral model is a meta model.  
+Spiral model is a meta model.  
   
-  In confidentiality, you don't want to read up or write down Bell-LaPadula 
+In confidentiality, you don't want to read up or write down Bell-LaPadula 
+
+Keep it up, just keep trying and don't give up 
+
+Good idea to follow up with the CISM or CCSP
+
+in coding, coupling can be thought as dependency.  
+
+permunations = stages or rounds 
+
+kerberos depends on symetric key encryption 
+
+When it is a physical thing, always fail open because fail secure could kill someone 
+
+Always give back to the community as it helps you be a better security professional 
   
