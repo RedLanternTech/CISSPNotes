@@ -296,7 +296,7 @@ CBC:  Like block-based but uses an initialization vector
 
 Information Security is not an IT Issue, its a business issue.  
 
-Ultimatly, its the board of directors who are resoponsible (or the top exceutives)
+Ultimately, its the board of directors who are responsible (or the top executive's)
 
 Information Security should improve efficiency.  
 
