@@ -200,3 +200,9 @@ Change control will trigger a review for potential security impacts
 
 - Should be logging events in source code management. Usefull in troubleshooting.  
 
+## Database Terms to Know 
+- DBMS:  Database Management System 
+- Tables contain attributes known as fields 
+- records can be known as tubles 
+- Cardinality - the number of rows in a relational database 
+- Degree - number of columns 
