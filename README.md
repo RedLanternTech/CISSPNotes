@@ -24,6 +24,8 @@ Sites and Videos I like:
 
 [NIST SP 800-34](https://csrc.nist.gov/publications/detail/sp/800-34/rev-1/final)
 
+[How to Think Like a Manager](https://youtube.com/watch?v=dq5eodSz_0k&amp;feature=share)
+
 # Books I Like
 
 [11th Hour CISSP](https://www.amazon.com/Eleventh-Hour-CISSP-Study-Syngress/dp/1597495662)

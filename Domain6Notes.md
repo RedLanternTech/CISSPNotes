@@ -59,6 +59,15 @@ Penetration Testing Steps
 4. Maintaining Access 
 5. Reporting
 
+Vulnerability Testing
+1. reconnaissance
+2. Enumeration 
+3. Vulnerability Analysis 
+4. Execution 
+5. Document Findings 
+
+**Difference Between Vulnerability Testing and a Pen Test is you don't have the Execution Step**
+
 Types of Tests:
 - Black Box:  you have no information about the target, most effective
 - White Box:  you have all the information about the target

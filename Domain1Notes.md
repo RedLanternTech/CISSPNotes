@@ -339,3 +339,12 @@ SOC3:  Light version of SOC2
 27034-1 - Application Security
 
 31000 - Risk Management
+
+## NIST Risk Management Framework 
+1. Prepare to execute the RMF
+2. Categorize Information Systems 
+3. Select Security Controls 
+4. Implement Security Controls 
+5. Assess Security Controls 
+6. Authorize Information System (with senior management)
+7. Monitor Security Controls 
