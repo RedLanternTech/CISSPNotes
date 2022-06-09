@@ -130,7 +130,7 @@ Change control will trigger a review for potential security impacts
 2. Design:  Threat Assessment, Security Requirements, Security Architecture 
 3. Implementation:  Secure Build, Secure Deployment, Detect Management 
 4. Verification:  Architecture Assessment, Requirements-Driven Testing, Security Testing 
-5. Operations- Incident Managment, Environment Mgmt, Operational Mgmt
+5. Operations- Incident Management, Environment Mgmt, Operational Mgmt
 
 ## Flow of Change Management 
 - request
