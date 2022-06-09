@@ -18,7 +18,7 @@
 - Layer 4:  SYN Flood, Session hijacking
 - Layer 5:  Depreciated SSL protocol, less secure versions of TLS, attacks on NETBIOS and NFS
 - Layer 6:  Attacks on the encryption schemes themselves.
-- Layer 7:  **Most Security breaches happen here**, Hitting weaknesss in protocols (HTTP, FTP, SMTP, SNMP), SQL Injections, 
+- Layer 7:  **Most Security breaches happen here**, Hitting weaknesses in protocols (HTTP, FTP, SMTP, SNMP), SQL Injections, 
 
 ## TCP/IP Model
 - Application:  DNS, DHCP, SMTP, POP/IMAP, X-Windows
@@ -33,20 +33,20 @@ As a note, NIST strong discourages BYOD.  It is best from a security standpoint 
 ## Firewalls 
 - Static Pack Filtering Firewalls:  Straddles between Layer 3(network) and Layer 4 (Transport).  Simple, also called a screening router.  easiest to bypass/least secure
 - Application level Firewalls:  Layer 7 (application).  Slow, complex, very secure.  Refered to as Gateway/Proxies.   
-- Stateful inspection firewalls:  Layer 3 and 4.  Maintaines a record of what comes in and out.  Fast, harder to bypass, doesn't see data.  
+- Stateful inspection firewalls:  Layer 3 and 4.  Maintains a record of what comes in and out.  Fast, harder to bypass, doesn't see data.  
 - circuit-level firewalls:  Live on Layer 5.  No data inspection, operates like a stateful inspection firewall.  
 - Next-Gen Firewalls:  IDS/IPS, Can operate at all/different levels of the OSI model.  Serve at application level firewalls.  UTM would fit here.
 
 Multihomed Firewall:  Has more than one interface.  Everything runs though a single box (or cluster).  
 
-Bastion Host/Screened Host:  AKA a Jump Box.  
+Bastion Host/Screened Host:  AKA a Jump Box. Used to access secure equipment in a dmz.  Also can be setup to protect devices (switches, firewalls,) with MFA if it is the only thing that can manage them. 
 
 Screened Subnet:  Two separate Firewalls.  Enterprise Lan -> First Firewall -> DMZ Network/Screen Network -> Firewall Two -> Internet.  Adds complexity.  
 
 AWS "Security Groups" and Firewall as a service (FWaaS)
 
 ## Dumb Network items
-Repeaters, Concentratos, and Amplifiers:  Operate at layer 1, a hub is a multiport repeater, **A Hub is a security risk**  
+Repeaters, Concentraters, and Amplifiers:  Operate at layer 1, a hub is a multiport repeater, **A Hub is a security risk**  
 
 Bridges and Switches:  Does same as hub, Operates at Layer 2, filters traffic based on Mac address.  Spanning Tree Algorithm (STA):  blocks forwarding on redunant links.  Where colision domain gets broken down.  
 
@@ -65,7 +65,7 @@ Lan Extender:  Extends beyond 100M (328ft).  Work at Layer 2.  Temporary.
 ## Ethernet 
 - IEEE 802:3
 - Most Common
-- Usually star or Busch
+- Usually star or Bus
 - two-way full duplex
 - Layer 2 technology
 - PDU is the frame
