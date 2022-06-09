@@ -116,7 +116,7 @@ Integrity of data in software is needed
 - Quantitatively managed
 - Optimizing
 
-### SAMM 
+## Software Assurance Security Model or SAMM 
 - baking security proccess into an existing SDLC 
 
 - The Theme:  What are we going to do, what is the plan, what are we designing, how do we make it, how do we get it into an operational state 
@@ -124,6 +124,13 @@ Integrity of data in software is needed
 Change control will trigger a review for potential security impacts
 
 - Includes a Change Management Board 
+
+### Order of Operations:
+1. Governance:  Strategy and Metrics, Policy and Compliance, Education and Guidance 
+2. Design:  Threat Assessment, Security Requirements, Security Architecture 
+3. Implementation:  Secure Build, Secure Deployment, Detect Management 
+4. Verification:  Architecture Assessment, Requirements-Driven Testing, Security Testing 
+5. Operations- Incident Managment, Environment Mgmt, Operational Mgmt
 
 ## Flow of Change Management 
 - request
