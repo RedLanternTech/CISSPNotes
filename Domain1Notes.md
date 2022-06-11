@@ -73,6 +73,7 @@ Due Diligence:  you did your research to make an informed decisions.  Proving Du
 
  - You need to be aware of weakness and vulnerabilities (Due Diligence)
  - Need to take action to secure (Due Care)
+ - **Due Diligence shows prudent executive leadership, due care shows judicious security operations**
 
 Liability - who is responsible for damage
 
