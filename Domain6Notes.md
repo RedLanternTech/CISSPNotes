@@ -123,6 +123,10 @@ Read the PenTesters Framework for more information.
 
 Misuse Case Testing
 
-Abuse Cases:  Looking to abuse system escalation privlidges, etc. 
+Abuse Cases:  Looking to abuse system escalation privileges, etc. 
 
-
+## SSAE-18
+- Reviews the use and application of controls in an audited organization
+- an attestation standard
+- used for external audits 
+- uses a framework, such as SOC 1, SOC2, and SOC 3 
