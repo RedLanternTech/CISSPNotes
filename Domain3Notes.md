@@ -12,7 +12,7 @@ Security needs to be considered during all phases of a project.
 
 [NIST SP 800-14](https://csrc.nist.gov/publications/detail/sp/800-14/archive/1996-09-03) 
 
-[NIST SP 800-27](https://csrc.nist.gov/publications/detail/sp/800-27/rev-a/archive/2004-06-21) **This is the one to know**
+[NIST SP 800-160](https://csrc.nist.gov/publications/detail/sp/800-160/vol-1/final) **This is the one to know**
 
 Security Foundations:  Establishes security policy as a design function
 
