@@ -172,13 +172,13 @@ Disaster Recovery Plan - Technical.  Not every business needs a disaster recover
 
 
 NIST SP 800-34.  
-1. Develope the Policy Statement
+1. Develop the Policy Statement
 2. Conduct a business impact analysis (BIA)
 3. Identify Preventative Controls
-4. Develope REcovery Strategies
-5. Develope an IT Contingency Plan
+4. Develop REcovery Strategies
+5. Develop an IT Contingency Plan
 6. Plan for Testing, Training and Exercise
-7. PLan for Maintenance.  
+7. Plan for Maintenance.  
 
 **People are the Most Important Asset**
 - Ensure human health
