@@ -210,6 +210,6 @@ Change control will trigger a review for potential security impacts
 ## Database Terms to Know 
 - DBMS:  Database Management System 
 - Tables contain attributes known as fields 
-- records can be known as tubles 
+- records can be known as tuples 
 - Cardinality - the number of rows in a relational database 
 - Degree - number of columns 
