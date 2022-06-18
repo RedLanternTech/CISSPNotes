@@ -31,7 +31,7 @@ Job Rotation/Tour of Duty Jobs
 - integrity of the evidence is critical
 - **DOCUMENT EVERYTHING**  If your going to fast to document everything, you are going too fast.
 - document dates, times, physical locations, logical locations
-- **Never Tamper** with the original versions of anything.  **ALWAYS** make a write-block, make bit-level copies, and investigate on the copies.  
+- **Never Tamper** with the original versions of anything.  **ALWAYS** use a write-block, make bit-level copies, and investigate on the copies.  
 - every second must be accountable
 - chain of custody must be maintained 
 - ISO/IEC 27037:2012 
@@ -82,7 +82,7 @@ Job Rotation/Tour of Duty Jobs
 - RTO's and RPO's must be defined.  
 - Recovering cross-functional organization processes requires the participation of a cross-functional team. 
 
-### Reponse 
+### Response 
 - **Health, Life Saftey trumps all.  All your plaining should be around this**
 - Coordinated response:  You want a disaster recovery plan and business continuity plan 
 - clear and consistent communications:  have plans in place
