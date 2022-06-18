@@ -89,7 +89,7 @@ Types of Tests:
 - You need to have a Business Impact Analysis for your systems and the criticality of your systems when doing vulnerability testing
 - CVSS scores do not take into account any compensating controls in your environment. 
 - Think about increased traffic and a potential ddos.  Properly configure the scans.
-- scans are idealy done durring low user activity.
+- scans are idealy done during low user activity.
 
 ## Pen Testing Steps from CISSP Book 
 1. Planning
