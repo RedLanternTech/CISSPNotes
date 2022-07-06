@@ -3,13 +3,20 @@
 # Ethical Codes
 Know all 4 tenants and the order of the ISC2 Code of Ethics
 [ISC2 Code of Ethics](https://www.isc2.org/ethics)
-- Protect society, the common good, necessary public trust, and confidence, and the infrastructure.
+- Protect society, the common good, necessary public trust and confidence, and the infrastructure.
 - Act honorable, honestly, justly, responsibly, and legally.
 - Provide diligent and competent service to principals
 - Advance and protect the profession
 **PAPA** 
 
-The first approach should be risk management
+
+Also know [RFC 1087](https://datatracker.ietf.org/doc/html/rfc1087)
+RFC1087 Characterizes unethical behavior as:
+- seeks to gain unauthorized access to the resources of the internet
+- disrupts the intended use of the Internet
+- wastes resources (people, capacity, computer) though such actions,
+- destroys the integrity of computer-based information,
+- compromises the privacy of usersThe first approach should be risk management
 
 Security Governance should align and enable the business to achieve its goals.  Security needs to 
  - create value
@@ -36,13 +43,6 @@ A - Alteration
 
 D - Destruction
 
-Also know [RFC 1087](https://datatracker.ietf.org/doc/html/rfc1087)
-RFC1087 Characterizes unethical behavior as:
-- seeks to gain unauthorized access to the resources of the internet
-- disrupts the intended use of the Internet
-- wastes resources (people, capacity, computer) though such actions,
-- destroys the integrity of computer-based information,
-- compromises the privacy of users
 
 ## Assets and threats
 Asset- anything of value that can be compromised (physical, information, reputation)
@@ -124,7 +124,7 @@ Qualifying Risk
 
 # Risk Management Principles
 
-**Risk Cannot Be Eliminated**
+**Risk Cannot Be Eliminated**      
 
 - Mitigation of the risk
 - Acceptance of the risk
@@ -155,7 +155,22 @@ Annualized Loss Expectancy (ALE)
 
 Total Cost of Ownership (TCO)
 
-See Page 25 and 26 of 11th hour cissp on how to run the formula and a good example.  The Questions at the end of chapter 1 are great
+### Chart from 11th Hour CISSP Expanded (please buy this book, its great)
+| Item                       | Formula             | Description                                                                                   |
+|----------------------------|---------------------|-----------------------------------------------------------------------------------------------|
+| Asset Value                | AV                  | Vaule of the assets                                                                           |
+| Exposure Factor            | EF                  | Percentage of asset value lost.  In whole decimals (100% = 1.0)                               |
+| Single-Lose Expectancy     | SLE = AV times EF   | Cost of one loss                                                                              |
+| Annual rate of occurance   | ARO                 | Number of losses per year                                                                     |
+| Annualized loss expectancy | ALE = SLE times ARO | Cost of losses per year                                                                       |
+| ROI                        | ROI                 | Return on investment (compare to the ALE, if more than the ALE, may be ok to accept the risk) |
+| Total Cost of Ownership    | TCO                 | How Much Something Cost to Maintain/Run/License/etc                                           |
+|                            |                     |                                                                                               |
+
+#### Running the Calculations 
+1. Determine, the AV, ARO, and EF
+2. Calculate SLE.  SLE = AV times EF
+3. Calculate ALE.  ALE = 
 
 A vulnerability can be real or theoretical.
 
