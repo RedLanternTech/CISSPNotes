@@ -37,6 +37,12 @@ Two major types of Classifications, Private and Government.
  - Client Confidential:  Client's PII
  - Public:  Ok to be known outside the organization
 
+## Access Control
+ - Mandatory Access Control.  Most restrictive, 
+ - Discretionary Access Control. flexible, allows the data owner to pick who has access.  Time Consuming
+ - Attribute-Based Access Control. based on an object's attributes, subject, enviromental conditions, and pre-configured policies.  Not optimal if subjects and objects are not maintained
+ - Role-Based Access Control.  Simple, flexible, and customizable.  Do not have to create access for each subject.
+ 
 As a security auditor or security assessor, you are not the person classifying the data
  - you just enforce it
  - and implement the proper controls
