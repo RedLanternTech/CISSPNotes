@@ -71,7 +71,7 @@ Job Rotation/Tour of Duty Jobs
 - the same security controls on the systems, should be on the backups as Well 
 - always check the backups integrity and that they are working 
  
- ### cloud 
+### cloud 
  - loss of physical control over data needs to be evaluated against cost savings 
  
 ## Disaster Recovery Process 
@@ -110,6 +110,8 @@ Job Rotation/Tour of Duty Jobs
 For the CISSP, you no longer need to know the different types of fire extinguishers 
 
 You do need to know what type of fire suppression to put into a data center 
+- Class C:  CO2/Gas
+- Something like FM-200 (replaced Halon), also includes Argon, Inergen
 
 Know that you need to have a travel restriction in some cases.  Don't want all the key people on the same plane.  
 

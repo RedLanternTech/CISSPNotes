@@ -26,6 +26,8 @@ Sites and Videos I like:
 
 [How to Think Like a Manager](https://youtube.com/watch?v=dq5eodSz_0k&amp;feature=share)
 
+[CISSP Cram Video](https://www.youtube.com/watch?v=qMScJnHaC9s)
+
 # Books I Like
 
 [11th Hour CISSP](https://www.amazon.com/Eleventh-Hour-CISSP-Study-Syngress/dp/1597495662)

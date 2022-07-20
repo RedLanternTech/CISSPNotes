@@ -52,6 +52,20 @@ Agile
 - Majority of software development is being done this way 
 - each iteration has a lesson's learned component. 
 
+**Agile 12 Principles**
+1. Highest priority is to satisfy the customer
+2. welcome changing requirements, even late in dev 
+3. Deliver working software frequently 
+4. business people and developers must work together daily 
+5. build projects around motivated individuals.  Give them env and support 
+6. Face-to-Face Communication is the most effective. 
+7. Working software is the primary measure of progress. 
+8. promote sustainable development.
+9. Continuous attention to technical excellence and good design. 
+10. Simplicity is essential. 
+11. self-organization 
+12. Reflect on how to be effective, then adjust accordingly. 
+
 Case or Computer Aid Software Engineering
 - software helps develop the software
 

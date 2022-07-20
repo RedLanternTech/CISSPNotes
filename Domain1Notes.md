@@ -158,7 +158,7 @@ Total Cost of Ownership (TCO)
 ### Chart from 11th Hour CISSP Expanded (please buy this book, its great)
 | Item                       | Formula             | Description                                                                                   |
 |----------------------------|---------------------|-----------------------------------------------------------------------------------------------|
-| Asset Value                | AV                  | Vaule of the assets                                                                           |
+| Asset Value                | AV                  | Value of the assets                                                                           |
 | Exposure Factor            | EF                  | Percentage of asset value lost.  In whole decimals (100% = 1.0)                               |
 | Single-Lose Expectancy     | SLE = AV times EF   | Cost of one loss                                                                              |
 | Annual rate of occurance   | ARO                 | Number of losses per year                                                                     |
