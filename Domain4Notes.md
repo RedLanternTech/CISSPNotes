@@ -14,8 +14,8 @@
 ## Attack vectors
 - Layer 1:  passive sniffing, electrical interference, cutting wire, 
 - Layer 2:  ARP Spoofing/MAC Address forging
-- Layer 3:  Man-in-the-Middle Attacks, Spoofing or Forging IP addresses, Denial of Service Attacks
-- Layer 4:  SYN Flood, Session hijacking
+- Layer 3:  Man-in-the-Middle Attacks, Spoofing or Forging IP addresses, Denial of Service Attacks, Smurf Attack, ICMP Flood/Ping Flood
+- Layer 4:  SYN Flood, Session hijacking, Fraggle Attack
 - Layer 5:  Depreciated SSL protocol, less secure versions of TLS, attacks on NETBIOS and NFS
 - Layer 6:  Attacks on the encryption schemes themselves.
 - Layer 7:  **Most Security breaches happen here**, Hitting weaknesses in protocols (HTTP, FTP, SMTP, SNMP), SQL Injections, 
