@@ -99,6 +99,14 @@ Trusted Computer Base Vulnerabilities
 
 [Common Criteria - ISO 15408](https://en.wikipedia.org/wiki/Common_Criteria)
 
+- EAL1 - Functionally Tested
+- EAL2 - Structurally tested
+- EAL3 - Methodically tested and checked
+- EAL4 - Methodically designed, tested, and reviewed
+- EAL5 - Semi-formally designed and tested
+- EAL6 - Semi formally verfied, designed, and tested
+- EAL7 - Formally verified, desinged and tested.
+
 Virtualization
 - Convert to isolated systmes
 - saves resources
@@ -212,3 +220,4 @@ Sprinklers
 - Wet Pipe:  always contains water, melts at 165F, not good for cold environments
 - Dry pipe:  water in tank until clapper valve opens
 - Deluge: Spreads a huge amount of water.  Not good for electrical
+ 
