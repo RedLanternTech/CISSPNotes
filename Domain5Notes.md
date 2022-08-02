@@ -2,8 +2,8 @@
 - use the security Triad (CIA)
 - when you use it you can define
 
-- Objects:  assets that require access control.
-- Subjects:  Either humands or entities like systems, process, and devices.  Require Access to objects.
+- Objects:  assets that require access control.  A passive object
+- Subjects:  Either humands or entities like systems, process, and devices.  Require Access to objects. 
 - Access:  anything a subject is permitted to do with or to an object.
 
 (NIST 800-63B is the best source to read)[https://pages.nist.gov/800-63-3/sp800-63b.html]
