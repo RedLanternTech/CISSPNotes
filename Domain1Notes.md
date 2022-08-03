@@ -364,3 +364,42 @@ SOC3:  Light version of SOC2
 5. Assess Security Controls 
 6. Authorize Information System (with senior management)
 7. Monitor Security Controls 
+
+# Threat Modeling Methods
+## Stride
+- Spoofing
+- Tampering
+- Repudiation
+- Information disclosure
+- Denial of Service
+- Elevation of Privilege
+
+## NIST 800-154
+- Identify and characterize the system and data interests
+- Identify and select the attack vectors to be included in the model
+- Characterize the security controls for mitigating the attack vectors
+- Analyze the threat model
+
+## DREAD
+- Damage
+- Reproducibility
+- Exploitability
+- Affected Users
+- Discoverability
+
+## VAST
+- Visual
+- Agile
+- Simple
+- Threat
+- This method is part of Agile Software Development
+
+## PASTA
+- Fcouses on Asset Valuation
+- Define objectives
+- Define technical scope
+- Application decomposition
+- Threat analysis
+- Vulnerability analysis
+ - Attack enumeration
+  - Risk and impact analysis
