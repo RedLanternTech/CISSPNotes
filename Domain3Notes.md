@@ -45,6 +45,45 @@ Trusted Computer Base Vulnerabilities
 - Clark-Wilson:  Integrity.  User uses a computer program to access data
 - Brewer-Nash (aka Chinese Wall):  For conflict of interests.  Basically you build a wall between information.  Control will be taken based on decisions.
 
+# Threat Modeling Methods
+## Stride
+- Spoofing
+- Tampering
+- Repudiation
+- Information disclosure
+- Denial of Service
+- Elevation of Privilege
+
+## NIST 800-154
+- Identify and characterize the system and data interests
+- Identify and select the attack vectors to be included in the model
+- Characterize the security controls for mitigating the attack vectors
+- Analyze the threat model
+
+## DREAD
+- Damage
+- Reproducibility
+- Exploitability
+- Affected Users
+- Discoverability
+
+## VAST
+- Visual
+- Agile
+- Simple
+- Threat
+- This method is part of Agile Software Development
+
+## PASTA
+- Focuses on Asset Valuation
+- Define objectives
+- Define technical scope
+- Application decomposition
+- Threat analysis
+- Vulnerability analysis
+- Attack enumeration
+- Risk and impact analysis
+
 ### TCSec
 - Orange book is another name
 - Created by the NIST, part of the rainbow books
