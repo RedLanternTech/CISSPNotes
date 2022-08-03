@@ -401,5 +401,5 @@ SOC3:  Light version of SOC2
 - Application decomposition
 - Threat analysis
 - Vulnerability analysis
- - Attack enumeration
-  - Risk and impact analysis
+- Attack enumeration
+- Risk and impact analysis
