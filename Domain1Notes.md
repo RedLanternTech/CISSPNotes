@@ -395,7 +395,7 @@ SOC3:  Light version of SOC2
 - This method is part of Agile Software Development
 
 ## PASTA
-- Fcouses on Asset Valuation
+- Focuses on Asset Valuation
 - Define objectives
 - Define technical scope
 - Application decomposition
