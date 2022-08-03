@@ -63,6 +63,13 @@ Two Major Privacy Laws in the United States
  - COPA:  California Online Privacy Protection Act.  must have a privacy policy
  - GDPR:  European Privacy Laws, establishes commissions, right to be forgotten.  
 
+## GDPR Notes
+- Data Processor:  works on behalf of the data controller
+- Data Controller:  
+- Data Transfer: Outside the EU
+- Notification of a data breech must happen within 72 hours.
+
+
 Private Data is owned by the person the data is about
 Consider Ethics and Legal Restrictions when collecting personal data
 Only collect information that is relevant to your business

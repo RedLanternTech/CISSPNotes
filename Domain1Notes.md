@@ -98,12 +98,6 @@ PII once exposed may not be recoverable, can be used for extortion, fraud, ident
 
 Sarbans-Oxley, HIPPA, require a code of ethics.  
 
-## GDPR Notes
-- Data Processor:  works on behalf of the data controller
-- Data Controller:  
-- Data Transfer: Outside the EU
-- Notification of a data breech must happen within 72 hours.
-
 Documentation:
 - needed and required for security documentation.
 - important to have a framework to your security
