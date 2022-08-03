@@ -3,6 +3,14 @@ Assets are either physical or information
 
 Reputation is also an asset
 
+## Data Life Cycle/Information Life Cycle
+1. Create
+2. Store/Classification
+3. Use
+4. Share
+5. Archive
+6. Destroy
+
 In order to protect information assets, you need an information asset list. 
  - **Always Start with an information asset list**
  - You always need to have management support when creating an Information Asset List

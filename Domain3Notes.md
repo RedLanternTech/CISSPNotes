@@ -18,7 +18,16 @@ Security Foundations:  Establishes security policy as a design function
 
 Risk Based:  Reduce Risk to acceptable levels, get a risk acceptance list.  assumes external systems as insecure
 
-Look for questions on what control is cost effective
+**Look for questions on what control is cost effective**
+
+## Privacy by Design
+1. Proactive approach
+2. Default Setting
+3. Embedded in Design
+4. Positive Sum Approach:  Needs of everyone involved are met
+5. End to End Security - Full life cycle protection
+6. Visibility and Transparency 
+7. Respect for User Privacy
 
 Trusted Computer Base:  defined in Orange Book.  "a combination of hardware, software, and controls that work together to form a trusted base to enforce your security policy" (Sybex)
 
