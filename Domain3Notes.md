@@ -108,6 +108,7 @@ Trusted Computer Base Vulnerabilities
 
 [Common Criteria - ISO 15408](https://en.wikipedia.org/wiki/Common_Criteria)
 
+- EAL0 - Inadequate assurance
 - EAL1 - Functionally Tested
 - EAL2 - Structurally tested
 - EAL3 - Methodically tested and checked
