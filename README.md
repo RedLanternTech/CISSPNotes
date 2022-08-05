@@ -8,6 +8,8 @@ I am basically retyping my notes and keeping them all in Markdown docs.  One doc
 
 Update April 2022:  I've also started attending the FRSecure study group/classes which so far has had great discussion.  [Register Here](https://frsecure.com/cissp-mentor-program/)
 
+Update August 2022:  As of August 5th 2022, I have provisionally passed the CISSP exam.  These notes played a big part in it.  Hopefully the can help others.
+
 Sites and Videos I like:
 
 [Why You Will Pass the CISSP](https://youtu.be/v2Y6Zog8h2A)
